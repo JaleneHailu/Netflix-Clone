@@ -35,10 +35,9 @@
 .header_left li img{
     max-width: 100%;
 }
-/* .header_right{
-    width: 23vw;
-
-} */
+.header_right {
+    width: 33%;
+}
 .header_right ul{
     width: 90%;
     display: flex;
