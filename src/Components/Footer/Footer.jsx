@@ -14,6 +14,7 @@ const Footer = () => {
           <YouTubeIcon />
         </div>
         <div className='footer_data'>
+          <div className='firstTwoDataWrapper'>
           <div>
             <ul>
               <li>Audio Description</li>
@@ -28,6 +29,8 @@ const Footer = () => {
               <li>Cookie Preferences</li>
             </ul>
           </div>
+          </div>
+          <div className='secondTwoDataWrapper'>
           <div>
             <ul>
               <li>Gift Cards</li>
@@ -41,6 +44,7 @@ const Footer = () => {
               <li>Privacy</li>
               <li>Contact Us</li>
             </ul>
+          </div>
           </div>
         </div>
         <div className='service_code'>
